@@ -1,2 +1,2 @@
 # FilterNSArraySameObjectTool
-数组中排重
+数组中间重可能对数组中含有相同元素的数组进行排重与增加相同元素进行排重
