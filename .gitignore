@@ -58,3 +58,11 @@ fastlane/screenshots
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+*.xcuserstate
+
+NSArrayModelFilter/NSArrayModelFilter.xcodeproj/project.xcworkspace/xcuserdata/liuzhiwei.xcuserdatad/UserInterfaceState.xcuserstate
+
+NSArrayModelFilter/NSArrayModelFilter.xcodeproj/project.xcworkspace/xcuserdata/liuzhiwei.xcuserdatad/UserInterfaceState.xcuserstate
+
+*.xcuserstate

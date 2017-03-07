@@ -31,7 +31,7 @@
     }
     
     NSMutableArray *arr2 = [NSMutableArray array];
-    for (int i = 10; i < 15; i++) {
+    for (int i = 0; i < 15; i++) {
         
         StudentModel *model = [[StudentModel alloc] init];
         
@@ -41,7 +41,7 @@
         [arr2 addObject:model];
     }
 
-    arr1 = (NSMutableArray *)[arr1 insertFilterObjectsFromArray:arr2];
+    arr1 = (NSMutableArray *)[arr1 addAndFilterObjectsFromArray:arr2];
     
     NSLog(@"%@",arr1);
 }
